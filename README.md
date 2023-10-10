@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Subham Roy
 #### Artificial Intelligence and Machine Learning
-![Artificial Intelligence and Machine Learning]([https://www.canva.com/design/DAFw23OvANs/pTZxf6EsLkNyrwjcvQ_2ZA/edit?utm_content=DAFw23OvANs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://github.com/mikeenforcer/mikeenforcer/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png))
+![Artificial Intelligence and Machine Learning](https://github.com/mikeenforcer/mikeenforcer/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 
 Myself Subham Roy, a budding AIML engineer. I really enjoy learning about new technologies and try to find ways to implement them.
 
