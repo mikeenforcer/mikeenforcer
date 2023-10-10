@@ -12,7 +12,7 @@ I am Subham Roy, a budding AIML engineer. I really enjoy learning about new tech
 * 💻 HTML, CSS, JS
 
 ## Examles Of Work
-![Rock-Paper-Scissors/Game](https://github.com/mikeenforcer/Rock-Paper-Scissor-Game)
+![<img src="https://raw.githubusercontent.com/thomasblom/casino-rock-paper-scissors/main/rock-paper-scissors.gif" width="250">](https://github.com/mikeenforcer/Rock-Paper-Scissor-Game)
 
 
 Skills: PYTHON / REACT / JS / HTML / CSS
