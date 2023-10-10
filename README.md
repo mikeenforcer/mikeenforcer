@@ -1,13 +1,17 @@
 ![Artificial Intelligence and Machine Learning](https://github.com/mikeenforcer/mikeenforcer/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 
-### Hi there 👋, Subham Roy
-#### Artificial Intelligence and Machine Learning
+# Hi there 👋, Myself Subham Roy
 
-Myself Subham Roy, a budding AIML engineer. I really enjoy learning about new technologies and try to find ways to implement them.
+I am Subham Roy, a budding AIML engineer. I really enjoy learning about new technologies and try to find ways to implement them.
+
+## Skills and Experience
+> 🐍 Python
+> ⚛️ React
+> 💻 HTML, CSS, JS
+
 
 Skills: PYTHON / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Generative AI 
 
 
