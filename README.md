@@ -6,7 +6,9 @@ I am Subham Roy, a budding AIML engineer. I really enjoy learning about new tech
 
 ## Skills and Experience
 > 🐍 Python
+
 > ⚛️ React
+
 > 💻 HTML, CSS, JS
 
 
