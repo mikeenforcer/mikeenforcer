@@ -15,7 +15,8 @@ I am Subham Roy, a budding AIML engineer. I really enjoy learning about new tech
 * 📂 Multiple Diseases Prediction System (https://disease-prediction-system-mhb8xsg2xmq8bwrhkcnwzx.streamlit.app/)
 
 * 📂 Movie Recommender (https://movie-recommender-5fvlrfxidbjc759lds2mmw.streamlit.app/)
- ![Movie Recommender](https://payload.cargocollective.com/1/1/44904/10607674/geo-law-scrolling.gif)
+
+ ![Movie Recommender](https://giphy.com/gifs/phone-endless-looping-xT9DPxTnuhLPORFpvi/fullscreen)
 
 
 ## Ongoing
