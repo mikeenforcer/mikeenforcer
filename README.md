@@ -14,9 +14,8 @@ I am Subham Roy, a budding AIML engineer. I really enjoy learning about new tech
 ## Projects
 * 📂 Multiple Diseases Prediction System (https://disease-prediction-system-mhb8xsg2xmq8bwrhkcnwzx.streamlit.app/)
 
-## Examples Of Work
-<img src="https://raw.githubusercontent.com/thomasblom/casino-rock-paper-scissors/main/rock-paper-scissors.gif" width="250">
-! [Rock-Paper-Scissors/Game](https://github.com/mikeenforcer/Rock-Paper-Scissor-Game)
+* <img src="https://raw.githubusercontent.com/thomasblom/casino-rock-paper-scissors/main/rock-paper-scissors.gif" width="250">
+! [Movie Recommender](https://github.com/mikeenforcer/Rock-Paper-Scissor-Game)
 
 
 - 🌱 I’m currently learning Generative AI 
