@@ -20,7 +20,11 @@ I am Subham Roy, a budding AIML engineer. I really enjoy learning about new tech
 
 
 ## Ongoing
-- 🌱 I’m currently learning Generative AI 
+- 🌱 I’m currently learning Generative AI
+ 
+- 🗲 Cloud Computing
+
+![Ongoing Learnings](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRzMmZhMGdheWthMTJyYTN3ZGRpc2cyZW90bDFqYm4zanFrZjdqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HBfRwUx1OUxySiu27N/giphy.gif)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mikeenforcer)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/subham-roy-374023258/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='40'>](https://twitter.com/MikeEnforcer)
