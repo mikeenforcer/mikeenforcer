@@ -14,7 +14,7 @@ I am Subham Roy, a budding AIML engineer. I really enjoy learning about new tech
 ## Projects
 * 📂 Multiple Diseases Prediction System (https://disease-prediction-system-mhb8xsg2xmq8bwrhkcnwzx.streamlit.app/)
 
-* 📂 Movie Recommender (https://movie-recommender-5fvlrfxidbjc759lds2mmw.streamlit.app/)
+* 📂 Movie Recommender System (https://movie-recommender-5fvlrfxidbjc759lds2mmw.streamlit.app/)
 
      ![Movie Recommender](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdtbTlmZDltMWNtNGloeTF5c2Z1aTl1b3YzOTljb3ZxbWk5NW8xYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPxTnuhLPORFpvi/giphy.gif)
 
