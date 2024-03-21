@@ -16,7 +16,7 @@ I am Subham Roy, a budding AIML engineer. I really enjoy learning about new tech
 
 * 📂 Movie Recommender (https://movie-recommender-5fvlrfxidbjc759lds2mmw.streamlit.app/)
 
- ![Movie Recommender](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdtbTlmZDltMWNtNGloeTF5c2Z1aTl1b3YzOTljb3ZxbWk5NW8xYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPxTnuhLPORFpvi/giphy.gif)
+     ![Movie Recommender](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdtbTlmZDltMWNtNGloeTF5c2Z1aTl1b3YzOTljb3ZxbWk5NW8xYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPxTnuhLPORFpvi/giphy.gif)
 
 
 ## Ongoing
@@ -24,7 +24,7 @@ I am Subham Roy, a budding AIML engineer. I really enjoy learning about new tech
  
 - 🗲 Cloud Computing
 
-![Ongoing Learnings](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRzMmZhMGdheWthMTJyYTN3ZGRpc2cyZW90bDFqYm4zanFrZjdqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HBfRwUx1OUxySiu27N/giphy.gif)
+     ![Ongoing Learnings](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemYwaWRkbW1rZGE5cGtkNW1nbzhsMjRudmV6Znh1Y2FrZWhkZ2FpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mikeenforcer)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/subham-roy-374023258/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='40'>](https://twitter.com/MikeEnforcer)
